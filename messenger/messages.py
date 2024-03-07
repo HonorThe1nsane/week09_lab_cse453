@@ -7,7 +7,7 @@
 #    This class stores the notion of a collection of messages
 ########################################################################
 
-import message
+import messenger.message as message
 
 
 ##################################################

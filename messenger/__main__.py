@@ -1,3 +1,3 @@
-import main
+import messenger.main as main
 
 main.main()

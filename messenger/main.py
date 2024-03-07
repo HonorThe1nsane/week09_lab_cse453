@@ -7,7 +7,7 @@
 #    This class allows one user to interact with the system
 ########################################################################
 
-import messages
+import messenger.messages as messages
 
 
 ###############################################################
